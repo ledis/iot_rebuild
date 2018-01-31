@@ -1,0 +1,286 @@
+.icons__home-source {
+  display:inline-block;
+  background-image: url(../images/icons/home_icon.png);
+  background-repeat: no-repeat;
+  cursor: pointer;
+}
+
+.icons__home-logo {
+  background-position: 0px 0px;
+  width:33px;
+  height:25px;
+}
+
+.icons__home-login-logo{
+  background-position: -33px 0px;
+  width: 108px;
+  height: 32px;
+}
+
+.icons__home-picture{
+  background-position: -240px -158px;
+  width: 24px;
+  height: 24px;
+}
+
+.icons__size_28_28 {
+  width: 28px;
+  height: 28px;
+}
+
+.icons__size_24_24 {
+  width: 24px;
+  height: 24px;
+}
+
+.icons__size_38_38 {
+  width: 38px;
+  height: 38px;
+}
+
+.icons__home-header-right{
+  background-position: 0px -40px;
+}
+.icons__home-header-left{
+  background-position: -24px -40px;
+}
+.icons__home-header-right-arrow{
+  background-position: -32px -181px
+}
+.icons__home-header-left-arrow{
+  background-position: -38px -181px;
+}
+.icons__home-header-down-arrow{
+  background-position: 0px -182px;
+}
+
+.icons__home-header-up-arrow{
+  background-position: -8px -182px;
+}
+
+.icons__home-header-left-arrow2{
+  background-position: -57px -190px;
+}
+.icons__home-header-right-arrow2{
+  background-position:-65px -189px;
+}
+
+.icons__home-header-search{
+  background-position: -191px -40px;
+}
+.icons__home-header-head{
+  background-position: -70px 0px;
+}
+.icons__home-header-remind{
+  background-position: -48px -40px;
+}
+.icons__home-header-remind-active{
+  background-position: -240px -40px;
+}
+.icons__home-header-remind:hover{
+  background-position: -240px -40px;
+}
+.icons__home-header-box{
+  background-position: -168px -40px;
+}
+.icons__home-header-box:hover{
+  background-position: -216px -40px;
+}
+.icons__home-header-contacts{
+  background-position: -112px -230px;
+}
+.icons__home-header-contacts:hover{
+  background-position: -143px -230px
+}
+.icons__home-header-contacts-active{
+  background-position: -143px -230px
+}
+
+.icons__home-header-logout {
+  background-position: -96px -40px;
+}
+.icons__home-header-question{
+  background-position:-72px -40px;
+}
+.icons__home-header-close{
+  background-position:-144px -40px;
+}
+.icons__home-header-switch{
+  background-position:0 -198px;
+}
+
+
+.icons__home-home {
+  background-position: 0px -120px;
+}
+
+.icons__home-location {
+  background-position: -30px -120px;
+}
+
+.icons__home-service{
+  background-position: -60px -120px;
+}
+
+.icons__home-control {
+  background-position: -180px -120px;
+}
+
+.icons__home-contract {
+  background-position: -90px -120px;
+}
+
+.icons__home-order {
+  background-position: -120px -120px;
+}
+
+.icons__home-track {
+  background-position: -150px -120px;
+}
+
+
+.icons__home-detail{
+  background-position: -45px -160px;
+}
+
+.icons__home-delete{
+  background-position: 4px -160px;
+}
+
+.icons__home-close{
+  background-position: -143px -40px;
+}
+
+.icons__margin-right{
+  margin-right: 15px;
+}
+
+//table
+
+.icons__table-del {
+  background-position: -0px -160px;
+}
+
+.icons__table-detail {
+  background-position: -24px -160px;
+}
+
+.icons__table-edit {
+  background-position: -48px -160px;
+}
+
+.icons__table-star {
+  background-position: -72px -160px;
+}
+
+.icons__table-txt {
+  background-position: -96px -160px;
+}
+
+.icons__page-up {
+  background-position: -120px -160px;
+}
+
+.icons__page-down {
+  background-position: -144px -160px;
+}
+
+
+
+.icons__table-star-hollow{
+  background-position: -192px -161px;
+}
+.icons__table-read{
+  background-position: -168px -161px;
+}
+
+.icon__table_white-del {
+  background-position: -192px -203px;
+}
+
+.icons__table_editable{
+  background-position: -56px -227px;
+  &:hover {
+    background-position: -84px -227px;
+  }
+}
+
+.icons__table_reload{
+  background-position: -222px -230px;
+  &:hover {
+    background-position: -250px -230px;
+  }
+}
+
+.icons__table_edit_confirm{
+  background-position: -174px -230px;
+}
+.icons__table_edit_cancel {
+  background-position: -198px -230px;
+}
+
+.icons__table_edit_photo {
+  background-position: -239px -160px;
+  &:hover {
+    background-position: -263px -160px;
+  }
+}
+
+//message icon
+.icon__message-warning {
+  background-position:-140px -70px ;
+}
+
+.icon__message-success {
+  background-position:-178px -70px ;
+}
+
+// right menu
+
+.icon__right-customized {
+  background-position:0 -70px ;
+}
+
+.icon__right-articles {
+  background-position:-43px -70px ;
+}
+.icon__right-guides {
+  background-position:-88px -70px ;
+}
+
+//size
+.icons__homeicons-size {
+  width:30px;
+  height:30px;
+}
+.icons__homeicons-small-size {
+  width:24px;
+  height:24px;
+}
+.icon__homeicons-big-size{
+  width: 37px;
+  height: 37px;
+}
+
+.icons__homeicons-arrow-size {
+  width: 6px;
+  height: 17px;
+}
+
+.icons__homeicons-big-arrow-size {
+  width: 7px;
+  height: 13px;
+}
+
+.icons_table-square-size{
+  width: 14px;
+  height: 14px;
+}
+.icons_table-big-size{
+  width: 19px;
+  height: 14px;
+}
+.icon_homeicons-contacts-size{
+  width: 31px;
+  height: 22px;
+}
